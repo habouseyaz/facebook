@@ -1,0 +1,57 @@
+aside{ display: flex;
+float: right;
+}
+ input
+{
+display: flex;
+}
+h4
+{
+    color: white;
+}
+section
+{
+    margin-left: 80px;
+}
+.Q
+{
+    display: flex;
+}
+.S
+{
+    display: flex;
+}
+.d
+{
+    display: flex;
+}
+ section
+{
+    display: flex;
+    justify-content: space-between;
+}
+.in{
+    display: inline-block;
+}
+.Sign
+{
+    margin: 100%;
+    
+}
+.ra
+{
+    display: inline-flex;
+}
+button{
+    color: white;
+
+}
+img
+{
+    width: 20%;
+}
+.b
+{ 
+margin-top: 16%;
+    margin-bottom:50% ;
+}
